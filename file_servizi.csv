@@ -1,0 +1,18 @@
+﻿id_servizio;codice_servizio;nome_servizio;descrizione;durata_stimata_in_ore;prezzo_base_un_ora;iva_percentuale;prezzo_preventivato;stato;data_inserimento;data_ultima_modifica
+1;SRV000001;Ripristino superfici;Rimozione e rifacimento di intonaci esterni, rasature a gesso o a calce e stuccature di crepe.;51;23;22;1431,06;1;02/06/2024;07/04/2025
+2;SRV000002;Opere di pavimentazione;Posa di nuovi pavimenti in ceramica, parquet o gres porcellanato.;147;21;22;3766,14;1;04/02/2026;27/02/2026
+3;SRV000003;Impermeabilizzazione;Risanamento di balconi, terrazze e coperture per bloccare le infiltrazioni d'acqua.;78;21;22;1998,36;1;26/12/2024;23/04/2026
+4;SRV000004;Opere in cartongesso;Creazione di controsoffitti, pareti divisorie e cabine armadio per la riorganizzazione degli spazi.;109;26;22;3457,48;1;01/02/2025;16/10/2025
+5;SRV000005;Pittura mura interne;Preparazione e tinteggiatura di superfici interne con pitture lavabili, traspiranti o decorative.;91;25;22;2775,5;1;06/01/2026;25/04/2026
+6;SRV000006;Pittura mura esterne;Preparazione e verniciatura di facciate e superfici esterne con prodotti resistenti agli agenti atmosferici.;108;30;22;3952,8;1;11/02/2024;19/11/2025
+7;SRV000007;Applicazione di rivestimenti;Posa di carta da parati, moquette murale e altri rivestimenti decorativi per interni.;72;20;22;1756,8;1;24/08/2024;31/01/2026
+8;SRV000008;Sostituzione apparecchiature usurate;Cambio di prese, interruttori, deviatori, pulsanti e placche danneggiate o fuori norma.;130;20;22;3172;1;07/08/2025;01/04/2026
+9;SRV000009;Riparazione corpi illuminanti;Sostituzione di trasformatori, alimentatori per LED, lampade d'emergenza e riparazione di plafoniere e applique.;147;23;22;4124,82;1;23/02/2024;16/03/2025
+10;SRV000010;Riparazione e sostituzione citofono o videocitofono;Verifica della linea, sostituzione del posto interno ed esterno o riparazione dell'alimentatore dedicato.;69;21;22;1767,78;1;29/05/2025;23/04/2026
+11;SRV000011;Installazione sistemi di sicurezza;Montaggio e configurazione di impianti di allarme, videosorveglianza e rilevatori di fumo e gas.;135;26;22;4282,2;1;18/07/2024;07/03/2025
+12;SRV000012;Installazione domotica;Conversione di comandi tradizionali in sistemi smart e cablaggio per gestione automatizzata di tapparelle, tende e luci.;137;23;22;3844,22;1;24/02/2025;22/05/2025
+13;SRV000013;Pulizia filtri;Sostituzione dei filtri dell'acqua, disincrostazione degli aeratori dei rubinetti e pulizia degli scarichi.;79;25;22;2409,5;1;29/04/2026;29/04/2026
+14;SRV000014;Rubinetteria e sanitari;Sostituzione di miscelatori, cartucce, sifoni, galleggianti e meccanismi interni delle cassette WC.;53;26;22;1681,16;1;13/11/2024;11/10/2025
+15;SRV000015;Riparazione tubi;Interventi mirati su tubazioni danneggiate tramite riparazioni localizzate o tecniche di risanamento.;86;29;22;3042,68;1;26/07/2024;29/03/2025
+16;SRV000016;Controllo fumi;Analisi di combustione della caldaia obbligatoria a norma di legge e rilascio del libretto di impianto.;99;22;22;2657,16;1;12/05/2026;17/05/2026
+17;SRV000017;Trattamento acqua;Installazione e manutenzione di addolcitori e impianti di depurazione dell'acqua potabile domestica.;68;24;22;1991,04;1;21/07/2025;11/10/2025

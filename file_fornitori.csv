@@ -1,0 +1,31 @@
+﻿id_fornitore;codice_fornitore;ragione_sociale;partita_iva;indirizzo;cap;citta;provincia;regione;nazione;telefono;email;pec;data_inserimento;data_ultima_modifica;stato
+1;FOR000001;Elettrica Bianchi Srl;IT47544673531;Via Cavour, 29;70123;Bari;BA;Puglia;Italia;3962458591;info@elettricabianchi.it;elettricabianchi@postecert.it;02/02/2024;03/03/2024;1
+2;FOR000002;Impianti Idraulici Costa Srl;IT79718747672;Via della Libertà, 4;20135;Ancona;AN;Marche;Italia;3938038374;info@impiantiidraulicicosta.it;impiantiidraulicicosta@postecert.it;26/08/2025;15/01/2026;1
+3;FOR000003;Idraulica Damico Srl;IT34935803837;Via del Corso, 44;20129;Prato;PO;Toscana;Italia;3376647119;info@idraulicadamico.com;idraulicadamico@pec.it;24/01/2025;14/03/2025;1
+4;FOR000004;Muratura Gallo Snc;IT46952721923;Via Garibaldi, 94;20178;Sassari;SS;Sardegna;Italia;3257350753;info@muraturagallo.com;muraturagallo@aruba.it;27/10/2024;01/11/2025;1
+5;FOR000005;Impiantistica Mancini Srl;IT21616047600;Via Garibaldi, 85;20147;Trieste;TS;Friuli-Venezia Giulia;Italia;3204905582;info@impiantisticamancini.it;impiantisticamancini@pec.it;24/01/2025;15/06/2025;1
+6;FOR000006;Costruzioni Villa Srl;IT60827117278;Via Vittorio Emanuele, 48;20136;Perugia;PG;Umbria;Italia;3955479144;info@costruzionivilla.it;costruzionivilla@pec.it;15/09/2025;11/12/2025;1
+7;FOR000007;Lavori Edili Sorrentino Snc;IT32526291403;Viale delle Terme, 49;20191;Prato;PO;Toscana;Italia;3984684531;info@lavoriedilisorrentino.it;lavoriedilisorrentino@legalmail.it;13/05/2026;14/05/2026;1
+8;FOR000008;Tinteggiatura Verdi Srl;IT56407318350;Via Nazionale, 35;90137;Palermo;PA;Sicilia;Italia;3826279418;info@tinteggiaturaverdi.it;tinteggiaturaverdi@postecert.it;09/02/2025;07/05/2026;1
+9;FOR000009;Costruzioni Bruno Srl;IT28317520862;Via Cavour, 96;20178;Ancona;AN;Marche;Italia;3438187926;info@costruzionibruno.it;costruzionibruno@postecert.it;05/01/2025;17/08/2025;1
+10;FOR000010;Elettrica Martini Snc;IT20709568991;Via Garibaldi, 111;50129;Firenze;FI;Toscana;Italia;3903684052;info@elettricamartini.it;elettricamartini@postecert.it;02/09/2025;04/10/2025;1
+11;FOR000011;Edilizia Ferrari Srl;IT80729735682;Via Verdi, 71;20197;Milano;MI;Lombardia;Italia;3245476583;info@ediliziaferrari.it;ediliziaferrari@legalmail.it;24/04/2024;18/02/2025;1
+12;FOR000012;Edilizia Conti Snc;IT11948728483;Via Verdi, 65;37174;Verona;VR;Veneto;Italia;3236007072;info@ediliziaconti.it;ediliziaconti@aruba.it;15/09/2025;25/12/2025;1
+13;FOR000013;Elettrica Conte Snc;IT34749795425;Via Matteotti, 100;20110;Trento;TN;Trentino-Alto Adige;Italia;3866438436;info@elettricaconte.it;elettricaconte@pec.it;24/04/2024;30/04/2025;1
+14;FOR000014;Tinteggiature di Luigi Rizzo;IT18928193543;Via Leopardi, 105;90178;Palermo;PA;Sicilia;Italia;3263154051;info@tinteggiaturerizzo.it;tinteggiaturerizzo@postecert.it;16/07/2025;08/10/2025;1
+15;FOR000015;Verniciatura Grassi Snc;IT95351450010;Via del Corso, 28;20198;Como;CO;Lombardia;Italia;3356229731;info@verniciaturagrassi.it;verniciaturagrassi@legalmail.it;24/03/2025;13/12/2025;1
+16;FOR000016;Costruzioni Marino Srl;IT41129517597;Via Mazzini, 44;00185;Roma;RM;Lazio;Italia;3804860684;info@costruzionimarino.it;costruzionimarino@pecmail.it;08/01/2024;20/03/2024;1
+17;FOR000017;Idraulica Giordano Snc;IT20009114172;Via Gramsci, 31;20195;Prato;PO;Toscana;Italia;3724594297;info@idraulicagiordano.it;idraulicagiordano@pecmail.it;10/01/2026;11/05/2026;1
+18;FOR000018;Tinteggiatura Pellegrini Srl;IT69302748061;Corso Umberto, 13;40194;Bologna;BO;Emilia-Romagna;Italia;3656944126;info@tinteggiaturapellegrini.it;tinteggiaturapellegrini@postecert.it;23/04/2025;01/05/2026;1
+19;FOR000019;Idraulica Orlando Snc;IT25660222785;Via Garibaldi, 52;20123;Parma;PR;Emilia-Romagna;Italia;3414214348;info@idraulicaorlando.it;idraulicaorlando@aruba.it;04/04/2025;14/06/2025;1
+20;FOR000020;Edilizia De Luca Snc;IT71325884441;Via Cavour, 112;90166;Palermo;PA;Sicilia;Italia;3802642635;info@ediliziadeluca.com;ediliziadeluca@aruba.it;06/05/2026;06/05/2026;1
+21;FOR000021;Impianti Idraulici Damico Srl;IT43709891493;Via Vittorio Emanuele, 53;20171;Siracusa;SR;Sicilia;Italia;3377728339;info@impiantiidraulicidamico.com;impiantiidraulicidamico@pecmail.it;23/01/2025;24/01/2025;1
+22;FOR000022;Edilizia Lombardi Srl;IT73501647053;Piazza Municipio, 55;20194;Ancona;AN;Marche;Italia;3723597059;info@edilizialombardi.it;edilizialombardi@legalmail.it;10/08/2024;08/10/2024;1
+23;FOR000023;Impiantistica Amato Srl;IT16623677968;Via della Repubblica, 8;10184;Torino;TO;Piemonte;Italia;3719436429;info@impiantisticaamato.it;impiantisticaamato@aruba.it;10/06/2024;07/08/2024;1
+24;FOR000024;Manutenzioni Colombo Srl;IT35131324880;Via Mazzini, 77;90196;Palermo;PA;Sicilia;Italia;3407774229;info@manutenzionicolombo.com;manutenzionicolombo@aruba.it;09/09/2024;24/04/2026;1
+25;FOR000025;Termoidraulica Verdi Srl;IT21250157925;Via del Corso, 85;20182;Lecce;LE;Puglia;Italia;3766307805;info@termoidraulicaverdi.it;termoidraulicaverdi@pecmail.it;16/11/2025;18/05/2026;1
+26;FOR000026;Muratura Rizzo Srl;IT62680413201;Via Dante, 86;20168;Modena;MO;Emilia-Romagna;Italia;3502217071;info@muraturarizzo.com;muraturarizzo@postecert.it;28/09/2025;19/02/2026;1
+27;FOR000027;Elettrica Romano Srl;IT38078925963;Via Gramsci, 34;70154;Bari;BA;Puglia;Italia;3185098412;info@elettricaromano.it;elettricaromano@legalmail.it;10/06/2024;01/09/2025;1
+28;FOR000028;Lavori Edili Piras Snc;IT92903679846;Via Gramsci, 2;20148;Ancona;AN;Marche;Italia;3942737893;info@lavoriedilipiras.it;lavoriedilipiras@legalmail.it;28/04/2024;15/08/2024;1
+29;FOR000029;Lavori Edili Bruno Snc;IT49824432345;Via della Libertà, 27;20136;Parma;PR;Emilia-Romagna;Italia;3975428914;info@lavoriedilibruno.it;lavoriedilibruno@postecert.it;14/09/2024;05/11/2024;1
+30;FOR000030;Impianti Idraulici Villa Srl;IT15483299827;Via Roma, 43;70191;Bari;BA;Puglia;Italia;3433710895;info@impiantiidraulicivilla.it;impiantiidraulicivilla@postecert.it;18/07/2025;21/02/2026;1

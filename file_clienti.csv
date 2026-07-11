@@ -1,0 +1,251 @@
+﻿id_cliente;codice_cliente;nome;cognome;data_nascita;codice_fiscale;email;telefono;indirizzo;cap;citta;provincia;regione;nazione;data_inserimento;stato;consenso_privacy;consenso_marketing;data_ultima_modifica
+1;CLI000001;Beatrice;Russo;21/11/1986;RUSBEA86S61VEROH;beatrice.russo@alice.it;3335213614;Via delle Magnolie, 99;37139;Verona;VR;Veneto;Italia;27/06/2025;1;1;1;29/03/2026
+2;CLI000002;Lorenzo;Serra;22/07/1995;SERLOR95L22LIVOV;lorenzo.serra@tiscali.it;3328742404;Via dei Mille, 46;20059;Livorno;LI;Toscana;Italia;20/05/2026;1;1;0;29/05/2026
+3;CLI000003;Massimo;Villa;22/01/1978;VILMAS78A22NAPOR;massimo.villa@gmail.com;3364418599;Corso Venezia, 137;80144;Napoli;NA;Campania;Italia;23/03/2024;1;1;0;09/07/2025
+4;CLI000004;Elena;Piras;16/10/1965;PIRELE65R56PADOX;elena.piras@yahoo.it;3329442218;Via dei Mille, 46;20030;Padova;PD;Veneto;Italia;07/02/2024;1;1;0;29/05/2024
+5;CLI000005;Elisa;Conti;31/01/1979;CONELI79A71RAVEE;elisa.conti@hotmail.it;3347393151;Via della Repubblica, 35;20021;Ravenna;RA;Emilia-Romagna;Italia;19/06/2025;1;1;0;12/01/2026
+6;CLI000006;Pietro;Martini;19/06/1984;MARPIE84H19FOGGL;pietro.martini@yahoo.it;3343196589;Via delle Magnolie, 39;20026;Foggia;FG;Puglia;Italia;14/09/2025;1;1;0;11/04/2026
+7;CLI000007;Paolo;Neri;24/10/1967;NERPAO67R24VEROE;paolo.neri@tiscali.it;3379374071;Via Carducci, 60;37162;Verona;VR;Veneto;Italia;16/05/2026;1;1;1;24/05/2026
+8;CLI000008;Ivan;Bruno;26/06/1982;BRUIVA82H26REGGS;ivan.bruno@gmail.com;3374629283;Via Nazionale, 103;89111;Reggio Calabria;RC;Calabria;Italia;10/12/2024;1;1;1;22/01/2026
+9;CLI000009;Ivana;De Luca;17/02/1968;DE IVA68B57NAPOX;ivana.deluca@tin.it;3354862279;Piazza Municipio, 58;80157;Napoli;NA;Campania;Italia;31/10/2025;1;1;0;03/05/2026
+10;CLI000010;Valentina;Leone;16/03/1977;LEOVAL77C56REGGY;valentina.leone@libero.it;3358065039;Via Togliatti, 66;89166;Reggio Calabria;RC;Calabria;Italia;12/03/2024;1;1;1;09/08/2025
+11;CLI000011;Ivana;Lombardi;11/03/2000;LOMIVA00C51BRESJ;ivana.lombardi@tin.it;3325736054;Via Nazionale, 113;25165;Brescia;BS;Lombardia;Italia;18/07/2024;1;1;0;10/08/2025
+12;CLI000012;Giulia;Piras;23/02/1991;PIRGIU91B63REGGV;giulia.piras@alice.it;3387991279;Via delle Magnolie, 60;89134;Reggio Calabria;RC;Calabria;Italia;22/02/2025;1;1;1;08/05/2026
+13;CLI000013;Roberto;Ferrara;08/11/1983;FERROB83S08MESSQ;roberto.ferrara@hotmail.it;3329575102;Via Carducci, 114;20010;Messina;ME;Sicilia;Italia;29/07/2024;1;1;1;25/04/2025
+14;CLI000014;Donatella;Gatti;25/12/1968;GATDON68T65LATID;donatella.gatti@hotmail.it;3331536214;Via Garibaldi, 107;20012;Latina;LT;Lazio;Italia;02/11/2024;1;1;1;15/11/2025
+15;CLI000015;Alessandro;Galli;15/11/1977;GALALE77S15VEROO;alessandro.galli@virgilio.it;3323192171;Via Amendola, 115;37143;Verona;VR;Veneto;Italia;20/05/2026;1;1;1;31/05/2026
+16;CLI000016;Donatella;Gallo;21/02/1976;GALDON76B61BRESI;donatella.gallo@yahoo.it;3364081380;Via Piave, 123;25136;Brescia;BS;Lombardia;Italia;09/08/2025;1;1;0;09/04/2026
+17;CLI000017;Maurizio;Pellegrini;17/08/1980;PELMAU80M17TREND;maurizio.pellegrini@virgilio.it;3352210378;Via della Repubblica, 2;20011;Trento;TN;Trentino-Alto Adige;Italia;06/08/2025;1;1;0;05/05/2026
+18;CLI000018;Elisa;Grassi;12/06/1967;GRAELI67H52BARIB;elisa.grassi@tin.it;3341801218;Via della Repubblica, 131;70185;Bari;BA;Puglia;Italia;23/08/2024;1;1;1;14/03/2026
+19;CLI000019;Pietro;Marino;14/03/1991;MARPIE91C14CATAH;pietro.marino@tiscali.it;3339131271;Via Vittorio Emanuele, 70;20063;Catanzaro;CZ;Calabria;Italia;09/10/2024;1;1;0;17/10/2025
+20;CLI000020;Leonardo;Piras;10/04/1989;PIRLEO89D10COMOX;leonardo.piras@libero.it;3323297694;Via Dante, 140;22120;Como;CO;Lombardia;Italia;29/03/2024;1;1;1;01/05/2024
+21;CLI000021;Nicola;Caruso;02/08/1987;CARNIC87M02UDINF;nicola.caruso@virgilio.it;3346744554;Via Carducci, 112;20088;Udine;UD;Friuli-Venezia Giulia;Italia;11/07/2024;1;1;0;21/05/2025
+22;CLI000022;Vincenzo;Bianchi;14/05/1970;BIAVIN70E14CAGLZ;vincenzo.bianchi@libero.it;3398446550;Via delle Magnolie, 21;09197;Cagliari;CA;Sardegna;Italia;16/04/2026;1;1;1;26/04/2026
+23;CLI000023;Silvia;Villa;08/06/1986;VILSIL86H48NAPOM;silvia.villa@gmail.com;3383664691;Via Dante, 3;80184;Napoli;NA;Campania;Italia;19/10/2024;1;1;1;11/05/2026
+24;CLI000024;Vincenzo;Gentile;16/12/1995;GENVIN95T16PALEL;vincenzo.gentile@alice.it;3376612555;Via dei Mille, 84;90115;Palermo;PA;Sicilia;Italia;04/04/2026;1;1;1;27/05/2026
+25;CLI000025;Noemi;Caruso;31/07/1984;CARNOE84L71CATAV;noemi.caruso@gmail.com;3387703235;Via del Corso, 132;95198;Catania;CT;Sicilia;Italia;02/01/2026;1;1;1;01/03/2026
+26;CLI000026;Sergio;Pellegrini;21/01/1989;PELSER89A21BRESS;sergio.pellegrini@libero.it;3361072459;Corso Martiri, 8;25130;Brescia;BS;Lombardia;Italia;07/05/2026;1;1;0;13/05/2026
+27;CLI000027;Elena;Martini;21/03/1968;MARELE68C61LECCE;elena.martini@gmail.com;3349438571;Via Nazionale, 115;73165;Lecce;LE;Puglia;Italia;16/03/2024;1;1;0;01/09/2024
+28;CLI000028;Serena;Lombardi;13/06/1981;LOMSER81H53NOVAL;serena.lombardi@outlook.it;3324902730;Via delle Magnolie, 147;20021;Novara;NO;Piemonte;Italia;11/05/2025;1;1;0;25/08/2025
+29;CLI000029;Noemi;Russo;25/08/2000;RUSNOE00M65VEROP;noemi.russo@tiscali.it;3325303837;Via Vittorio Emanuele, 133;37127;Verona;VR;Veneto;Italia;19/11/2025;1;1;0;28/03/2026
+30;CLI000030;Gianni;Caruso;27/10/1990;CARGIA90R27AREZM;gianni.caruso@outlook.it;3335053742;Via Verdi, 83;20063;Arezzo;AR;Toscana;Italia;24/02/2026;1;1;1;07/05/2026
+31;CLI000031;Alessandro;Esposito;18/09/1961;ESPALE61P18SALEK;alessandro.esposito@tiscali.it;3345913264;Via Vittorio Emanuele, 69;84117;Salerno;SA;Campania;Italia;18/11/2025;1;1;1;22/01/2026
+32;CLI000032;Emanuele;Giordano;22/02/1967;GIOEMA67B22PERUE;emanuele.giordano@hotmail.it;3384323798;Viale delle Terme, 15;06159;Perugia;PG;Umbria;Italia;28/01/2024;1;1;0;25/01/2025
+33;CLI000033;Riccardo;Verdi;05/02/1976;VERRIC76B05REGGH;riccardo.verdi@outlook.it;3322242539;Via Roma, 8;42158;Reggio Emilia;RE;Emilia-Romagna;Italia;29/06/2024;1;1;1;31/01/2025
+34;CLI000034;Laura;Rossi;21/06/1979;ROSLAU79H61FIREN;laura.rossi@libero.it;3379341115;Via del Corso, 143;50194;Firenze;FI;Toscana;Italia;19/01/2025;1;1;1;16/02/2026
+35;CLI000035;Simona;Giordano;04/04/1972;GIOSIM72D44TRENC;simona.giordano@gmail.com;3395480515;Via della Repubblica, 27;20041;Trento;TN;Trentino-Alto Adige;Italia;04/10/2024;1;1;0;14/08/2025
+36;CLI000036;Pietro;Ferri;01/06/1983;FERPIE83H01ROMAX;pietro.ferri@hotmail.it;3337432779;Corso Italia, 5;00187;Roma;RM;Lazio;Italia;16/10/2024;1;1;1;06/03/2026
+37;CLI000037;Luisa;Basile;20/07/1970;BASLUI70L60UDINR;luisa.basile@libero.it;3387683643;Via Pascoli, 54;20098;Udine;UD;Friuli-Venezia Giulia;Italia;10/03/2024;1;1;1;05/11/2025
+38;CLI000038;Teresa;Conti;30/03/1991;CONTER91C70ROMAS;teresa.conti@libero.it;3327878993;Corso Umberto, 109;00116;Roma;RM;Lazio;Italia;09/11/2025;1;1;0;26/04/2026
+39;CLI000039;Roberto;Sanna;12/10/1969;SANROB69R12PADOU;roberto.sanna@libero.it;3348209424;Via Piave, 74;20095;Padova;PD;Veneto;Italia;06/07/2024;1;1;1;21/11/2024
+40;CLI000040;Lorenzo;Costa;23/11/1973;COSLOR73S23VEROM;lorenzo.costa@libero.it;3335512733;Via Gramsci, 78;37163;Verona;VR;Veneto;Italia;13/09/2024;1;1;1;22/02/2025
+41;CLI000041;Andrea;Greco;02/04/1971;GREAND71D02MONZE;andrea.greco@hotmail.it;3354649149;Via Isonzo, 129;20960;Monza;MB;Lombardia;Italia;09/11/2024;1;1;1;10/02/2026
+42;CLI000042;Giorgio;Gatti;07/09/1966;GATGIO66P07MESSQ;giorgio.gatti@alice.it;3396956936;Via della Libertà, 133;20052;Messina;ME;Sicilia;Italia;13/03/2024;1;1;1;31/10/2024
+43;CLI000043;Bruno;Rossi;24/02/1975;ROSBRU75B24CESES;bruno.rossi@libero.it;3348081528;Via Mazzini, 109;20061;Cesena;FC;Emilia-Romagna;Italia;13/04/2025;1;1;0;06/06/2025
+44;CLI000044;Stefano;Pellegrini;26/05/1973;PELSTE73E26MESSE;stefano.pellegrini@hotmail.it;3383906365;Via Piave, 143;20024;Messina;ME;Sicilia;Italia;23/11/2025;1;1;0;06/05/2026
+45;CLI000045;Fabio;Esposito;26/07/1997;ESPFAB97L26PADOM;fabio.esposito@virgilio.it;3348432417;Via Aldo Moro, 65;20048;Padova;PD;Veneto;Italia;06/05/2025;1;1;1;07/02/2026
+46;CLI000046;Nicola;Lombardi;05/12/1961;LOMNIC61T05ANDRW;nicola.lombardi@outlook.it;3394501392;Via Carducci, 134;20051;Andria;BT;Puglia;Italia;11/09/2025;1;1;1;16/04/2026
+47;CLI000047;Alberto;Ferraro;01/01/1985;FERALB85A01VEROZ;alberto.ferraro@outlook.it;3381344673;Via Roma, 89;37176;Verona;VR;Veneto;Italia;05/06/2024;1;1;0;14/10/2024
+48;CLI000048;Maurizio;Villa;20/03/1990;VILMAU90C20ANCOL;maurizio.villa@alice.it;3372686440;Via delle Magnolie, 141;60147;Ancona;AN;Marche;Italia;29/10/2024;1;1;1;01/12/2024
+49;CLI000049;Chiara;Santoro;21/10/1961;SANCHI61R61VEROC;chiara.santoro@yahoo.it;3368192973;Via Isonzo, 140;37190;Verona;VR;Veneto;Italia;11/07/2025;1;1;1;21/01/2026
+50;CLI000050;Monica;Ferretti;29/11/1994;FERMON94S69PERUC;monica.ferretti@hotmail.it;3331075267;Corso Venezia, 100;06127;Perugia;PG;Umbria;Italia;16/11/2024;1;1;0;16/07/2025
+51;CLI000051;Roberta;Parisi;26/02/2000;PARROB00B66BARIV;roberta.parisi@alice.it;3381454179;Via Matteotti, 131;70127;Bari;BA;Puglia;Italia;01/07/2025;1;1;0;12/11/2025
+52;CLI000052;Marisa;Lombardi;22/11/1971;LOMMAR71S62MODEX;marisa.lombardi@tin.it;3336798572;Via Roma, 126;41165;Modena;MO;Emilia-Romagna;Italia;21/08/2024;1;1;0;23/12/2025
+53;CLI000053;Cristina;Pellegrini;19/12/1994;PELCRI94T59BERGE;cristina.pellegrini@yahoo.it;3336956756;Via Matteotti, 34;24114;Bergamo;BG;Lombardia;Italia;20/10/2025;1;1;0;18/01/2026
+54;CLI000054;Marco;Serra;28/06/1992;SERMAR92H28LATIO;marco.serra@tiscali.it;3359331840;Via Aldo Moro, 1;20011;Latina;LT;Lazio;Italia;09/08/2024;1;1;0;23/09/2024
+55;CLI000055;Edoardo;Messina;10/04/1968;MESEDO68D10BARIO;edoardo.messina@hotmail.it;3341547293;Piazza Municipio, 15;70180;Bari;BA;Puglia;Italia;02/10/2025;1;1;0;10/10/2025
+56;CLI000056;Emanuela;Silvestri;14/04/1994;SILEMA94D54BARIS;emanuela.silvestri@virgilio.it;3321535313;Via Carducci, 85;70146;Bari;BA;Puglia;Italia;12/08/2025;1;1;0;18/02/2026
+57;CLI000057;Silvia;Gallo;26/12/1982;GALSIL82T66BRESC;silvia.gallo@tin.it;3365366418;Via della Libertà, 78;25171;Brescia;BS;Lombardia;Italia;05/05/2025;1;1;0;05/05/2025
+58;CLI000058;Leonardo;Martini;25/05/1970;MARLEO70E25VEROW;leonardo.martini@gmail.com;3329867890;Via Isonzo, 57;37196;Verona;VR;Veneto;Italia;02/11/2024;1;1;1;21/07/2025
+59;CLI000059;Federica;Santoro;31/08/1999;SANFED99M71BRESZ;federica.santoro@alice.it;3343613238;Via Matteotti, 119;25157;Brescia;BS;Lombardia;Italia;20/04/2025;1;1;1;09/09/2025
+60;CLI000060;Arianna;Gallo;13/09/1974;GALARI74P53PESCW;arianna.gallo@icloud.com;3349445226;Via Nazionale, 143;65128;Pescara;PE;Abruzzo;Italia;15/11/2025;1;1;1;14/04/2026
+61;CLI000061;Salvatore;Rizzo;03/08/1995;RIZSAL95M03ANDRK;salvatore.rizzo@tin.it;3376511269;Corso Umberto, 17;20060;Andria;BT;Puglia;Italia;01/04/2024;1;1;0;16/11/2024
+62;CLI000062;Rosa;Leone;13/12/1991;LEOROS91T53RIMIK;rosa.leone@libero.it;3321998839;Via delle Magnolie, 15;20039;Rimini;RN;Emilia-Romagna;Italia;29/03/2024;1;1;1;03/01/2026
+63;CLI000063;Enzo;Ferri;21/03/1975;FERENZ75C21BERGF;enzo.ferri@outlook.it;3368290643;Via della Repubblica, 71;24110;Bergamo;BG;Lombardia;Italia;24/01/2026;1;1;0;08/03/2026
+64;CLI000064;Ilaria;Amato;01/01/1991;AMAILA91A41BARIO;ilaria.amato@yahoo.it;3328627557;Via dei Mille, 133;70171;Bari;BA;Puglia;Italia;13/05/2025;1;1;1;14/03/2026
+65;CLI000065;Noemi;Ruggiero;11/12/1994;RUGNOE94T51BOLOB;noemi.ruggiero@yahoo.it;3393035155;Corso Venezia, 126;40171;Bologna;BO;Emilia-Romagna;Italia;12/01/2024;1;1;1;05/02/2025
+66;CLI000066;Antonio;Lombardi;18/05/1999;LOMANT99E18FIREN;antonio.lombardi@outlook.it;3342895488;Via Dante, 49;50180;Firenze;FI;Toscana;Italia;17/05/2024;1;1;1;28/12/2024
+67;CLI000067;Nicola;Marino;12/12/1961;MARNIC61T12CATAB;nicola.marino@tiscali.it;3394467011;Corso Umberto, 133;20035;Catanzaro;CZ;Calabria;Italia;10/02/2026;1;1;1;10/02/2026
+68;CLI000068;Patrizia;Piras;03/03/1997;PIRPAT97C43LIVOK;patrizia.piras@tiscali.it;3381291775;Via Aldo Moro, 116;20054;Livorno;LI;Toscana;Italia;17/04/2024;1;1;0;05/10/2024
+69;CLI000069;Daniele;Gatti;12/08/1994;GATDAN94M12LIVOF;daniele.gatti@yahoo.it;3376060004;Via Carducci, 123;20053;Livorno;LI;Toscana;Italia;25/10/2025;1;1;1;28/02/2026
+70;CLI000070;Enzo;De Luca;22/11/1974;DE ENZ74S22BOLON;enzo.deluca@virgilio.it;3343934568;Corso Venezia, 92;40113;Bologna;BO;Emilia-Romagna;Italia;09/01/2025;1;1;1;06/11/2025
+71;CLI000071;Silvia;Testa;04/07/1967;TESSIL67L44UDINV;silvia.testa@hotmail.it;3332472969;Via dei Mille, 124;20039;Udine;UD;Friuli-Venezia Giulia;Italia;14/03/2024;1;1;0;30/05/2026
+72;CLI000072;Nicola;Testa;02/09/1998;TESNIC98P02REGGH;nicola.testa@gmail.com;3325214081;Via Carducci, 144;42138;Reggio Emilia;RE;Emilia-Romagna;Italia;10/02/2025;1;1;0;06/05/2025
+73;CLI000073;Luisa;Ferrari;29/11/1976;FERLUI76S69PRATX;luisa.ferrari@alice.it;3321384187;Via dei Mille, 16;20073;Prato;PO;Toscana;Italia;07/06/2024;1;1;1;10/07/2024
+74;CLI000074;Carmela;Marino;20/02/1966;MARCAR66B60REGGL;carmela.marino@icloud.com;3385148110;Via della Repubblica, 62;89193;Reggio Calabria;RC;Calabria;Italia;04/03/2024;1;1;1;13/11/2024
+75;CLI000075;Alberto;Conti;17/03/1996;CONALB96C17ANCOA;alberto.conti@icloud.com;3396313696;Via Leopardi, 99;60132;Ancona;AN;Marche;Italia;03/01/2025;1;1;0;26/05/2025
+76;CLI000076;Filippo;Basile;07/05/1980;BASFIL80E07PRATG;filippo.basile@yahoo.it;3395720822;Via Gramsci, 10;20063;Prato;PO;Toscana;Italia;02/01/2026;1;1;1;26/02/2026
+77;CLI000077;Alessandro;Romano;02/11/1967;ROMALE67S02NAPOI;alessandro.romano@tin.it;3342185840;Via Mazzini, 44;80135;Napoli;NA;Campania;Italia;17/01/2024;1;1;0;27/09/2024
+78;CLI000078;Davide;Conti;07/11/1960;CONDAV60S07CESEZ;davide.conti@virgilio.it;3373921306;Viale delle Terme, 99;20044;Cesena;FC;Emilia-Romagna;Italia;05/09/2025;1;1;0;29/09/2025
+79;CLI000079;Chiara;Basile;09/10/1980;BASCHI80R49REGGL;chiara.basile@alice.it;3386154956;Via della Libertà, 11;42119;Reggio Emilia;RE;Emilia-Romagna;Italia;15/10/2025;1;1;0;09/12/2025
+80;CLI000080;Salvatore;Villa;03/08/1993;VILSAL93M03PISAT;salvatore.villa@yahoo.it;3335528457;Via Isonzo, 142;20040;Pisa;PI;Toscana;Italia;02/03/2025;1;1;0;18/03/2026
+81;CLI000081;Mario;Fiore;13/01/1996;FIOMAR96A13FIREG;mario.fiore@alice.it;3328149234;Via Piave, 20;50133;Firenze;FI;Toscana;Italia;25/08/2025;1;1;0;07/01/2026
+82;CLI000082;Carmelo;Verdi;14/05/1990;VERCAR90E14NOVAV;carmelo.verdi@icloud.com;3355544640;Via delle Magnolie, 148;20066;Novara;NO;Piemonte;Italia;16/09/2024;1;1;0;01/03/2026
+83;CLI000083;Ivana;Ferraro;24/09/1993;FERIVA93P64MONZZ;ivana.ferraro@outlook.it;3333267471;Via Mazzini, 18;20941;Monza;MB;Lombardia;Italia;24/06/2024;1;1;0;02/03/2026
+84;CLI000084;Giorgia;Neri;04/11/1995;NERGIO95S44ROMAM;giorgia.neri@alice.it;3371876628;Via Mazzini, 51;00146;Roma;RM;Lazio;Italia;10/02/2026;1;1;1;16/04/2026
+85;CLI000085;Maria;Fontana;07/04/1988;FONMAR88D47CATAL;maria.fontana@icloud.com;3353824446;Via della Repubblica, 96;20071;Catanzaro;CZ;Calabria;Italia;20/11/2025;1;1;1;21/01/2026
+86;CLI000086;Alessia;Ferrara;08/08/1986;FERALE86M48BOLOW;alessia.ferrara@icloud.com;3328982270;Via Verdi, 66;40171;Bologna;BO;Emilia-Romagna;Italia;15/04/2025;1;1;1;12/07/2025
+87;CLI000087;Carmelo;Riva;30/07/1972;RIVCAR72L30ROMAA;carmelo.riva@tin.it;3325566236;Via Matteotti, 24;00156;Roma;RM;Lazio;Italia;22/05/2024;1;1;0;24/06/2025
+88;CLI000088;Chiara;Fontana;14/02/1997;FONCHI97B54ROMAD;chiara.fontana@yahoo.it;3338279292;Piazza Municipio, 130;00175;Roma;RM;Lazio;Italia;12/02/2025;1;1;1;16/03/2026
+89;CLI000089;Cristian;Conti;29/05/1980;CONCRI80E29LECCT;cristian.conti@virgilio.it;3396783976;Via della Repubblica, 27;73185;Lecce;LE;Puglia;Italia;07/12/2025;1;1;0;29/05/2026
+90;CLI000090;Gianni;Gatti;20/03/2000;GATGIA00C20PESCZ;gianni.gatti@tiscali.it;3351744783;Piazza Municipio, 56;65136;Pescara;PE;Abruzzo;Italia;26/01/2025;1;1;1;21/03/2026
+91;CLI000091;Elena;Gallo;04/04/1969;GALELE69D44LECCC;elena.gallo@tin.it;3329939997;Via del Corso, 38;73121;Lecce;LE;Puglia;Italia;02/08/2024;1;1;1;07/03/2026
+92;CLI000092;Stefano;Greco;24/02/1997;GRESTE97B24PARME;stefano.greco@tiscali.it;3332158369;Via Nazionale, 64;43172;Parma;PR;Emilia-Romagna;Italia;08/06/2025;1;1;0;04/11/2025
+93;CLI000093;Marta;Messina;30/03/2000;MESMAR00C70LECCK;marta.messina@alice.it;3353278847;Via delle Magnolie, 60;73187;Lecce;LE;Puglia;Italia;25/05/2024;1;1;1;16/07/2025
+94;CLI000094;Emanuela;D'Amico;24/09/1975;DAMEMA75P64PALEQ;emanuela.damico@gmail.com;3399233666;Via Gramsci, 137;90189;Palermo;PA;Sicilia;Italia;22/01/2024;1;1;1;18/04/2025
+95;CLI000095;Ivan;Serra;09/03/1964;SERIVA64C09FERRU;ivan.serra@tin.it;3351309935;Corso Umberto, 58;44185;Ferrara;FE;Emilia-Romagna;Italia;18/03/2024;1;1;1;27/11/2024
+96;CLI000096;Giovanni;Longo;17/01/1974;LONGIO74A17CAGLX;giovanni.longo@virgilio.it;3339040478;Via Garibaldi, 51;09193;Cagliari;CA;Sardegna;Italia;26/02/2025;1;1;0;07/12/2025
+97;CLI000097;Fabio;Sanna;28/09/1968;SANFAB68P28PRATD;fabio.sanna@tiscali.it;3355961759;Viale delle Terme, 95;20056;Prato;PO;Toscana;Italia;01/10/2025;1;1;0;20/04/2026
+98;CLI000098;Davide;Basile;24/12/1961;BASDAV61T24TRENQ;davide.basile@hotmail.it;3351606562;Via Isonzo, 12;20050;Trento;TN;Trentino-Alto Adige;Italia;28/04/2025;1;1;1;01/08/2025
+99;CLI000099;Teresa;Romano;31/08/1968;ROMTER68M71VICES;teresa.romano@yahoo.it;3361568871;Corso Umberto, 23;20044;Vicenza;VI;Veneto;Italia;25/05/2025;1;1;0;20/02/2026
+100;CLI000100;Massimo;Vitale;05/04/1965;VITMAS65D05MONZD;massimo.vitale@yahoo.it;3321980899;Via Pascoli, 136;20974;Monza;MB;Lombardia;Italia;07/06/2024;1;1;0;13/07/2025
+101;CLI000101;Maria;Barbieri;14/12/1960;BARMAR60T54BRESL;maria.barbieri@yahoo.it;3397414469;Viale delle Terme, 146;25145;Brescia;BS;Lombardia;Italia;30/05/2026;1;1;1;31/05/2026
+102;CLI000102;Ivan;Amato;04/03/1970;AMAIVA70C04PISAK;ivan.amato@gmail.com;3343227011;Via del Corso, 132;20026;Pisa;PI;Toscana;Italia;09/01/2024;1;1;1;24/12/2024
+103;CLI000103;Emanuela;Caruso;09/06/1994;CAREMA94H49CESEL;emanuela.caruso@icloud.com;3323369603;Via Pascoli, 28;20018;Cesena;FC;Emilia-Romagna;Italia;08/04/2026;1;1;1;10/04/2026
+104;CLI000104;Sara;Sanna;06/11/1990;SANSAR90S46REGGE;sara.sanna@libero.it;3391904516;Piazza Municipio, 25;89142;Reggio Calabria;RC;Calabria;Italia;28/06/2025;1;1;1;10/08/2025
+105;CLI000105;Luigi;Ferrara;29/05/1964;FERLUI64E29SASSE;luigi.ferrara@alice.it;3372717055;Via della Repubblica, 131;07138;Sassari;SS;Sardegna;Italia;22/09/2024;1;1;0;06/12/2025
+106;CLI000106;Giovanna;Ferraro;24/10/1988;FERGIO88R64AREZS;giovanna.ferraro@hotmail.it;3353032022;Via della Libertà, 4;20079;Arezzo;AR;Toscana;Italia;14/06/2024;1;1;0;24/02/2026
+107;CLI000107;Nicola;Basile;29/01/1980;BASNIC80A29TRENS;nicola.basile@tin.it;3353950531;Corso Umberto, 128;20037;Trento;TN;Trentino-Alto Adige;Italia;10/09/2025;1;1;1;01/03/2026
+108;CLI000108;Marco;Ricci;21/03/1975;RICMAR75C21FOGGH;marco.ricci@hotmail.it;3382520314;Via Amendola, 34;20042;Foggia;FG;Puglia;Italia;18/08/2025;1;1;1;13/09/2025
+109;CLI000109;Ilaria;Ferrari;23/02/1968;FERILA68B63TRIEF;ilaria.ferrari@tiscali.it;3341775065;Via delle Magnolie, 1;20065;Trieste;TS;Friuli-Venezia Giulia;Italia;28/11/2024;1;1;1;28/12/2024
+110;CLI000110;Emanuela;Ferrari;23/01/1984;FEREMA84A63TRIEH;emanuela.ferrari@icloud.com;3384922386;Via Amendola, 28;20063;Trieste;TS;Friuli-Venezia Giulia;Italia;10/12/2024;1;1;0;03/02/2025
+111;CLI000111;Alberto;Ricci;20/08/1997;RICALB97M20VICEF;alberto.ricci@tiscali.it;3335191215;Corso Venezia, 114;20060;Vicenza;VI;Veneto;Italia;17/08/2025;1;1;1;13/03/2026
+112;CLI000112;Chiara;De Angelis;01/11/1973;DE CHI73S41CAGLY;chiara.deangelis@hotmail.it;3379232821;Via Isonzo, 134;09168;Cagliari;CA;Sardegna;Italia;13/08/2024;1;1;0;24/12/2025
+113;CLI000113;Valentina;Coppola;04/12/1998;COPVAL98T44VICEO;valentina.coppola@outlook.it;3386041976;Via Isonzo, 79;20043;Vicenza;VI;Veneto;Italia;01/01/2025;1;1;0;27/07/2025
+114;CLI000114;Monica;Palumbo;31/03/1962;PALMON62C71REGGV;monica.palumbo@icloud.com;3398527976;Via Isonzo, 32;89164;Reggio Calabria;RC;Calabria;Italia;14/02/2025;1;1;0;15/05/2025
+115;CLI000115;Caterina;Riva;21/05/1970;RIVCAT70E61TORIR;caterina.riva@yahoo.it;3391578544;Corso Italia, 15;10113;Torino;TO;Piemonte;Italia;19/11/2024;1;1;0;06/04/2026
+116;CLI000116;Martina;Grassi;07/07/1991;GRAMAR91L47PARMM;martina.grassi@libero.it;3333025253;Viale delle Terme, 45;43184;Parma;PR;Emilia-Romagna;Italia;27/07/2024;1;1;0;14/02/2026
+117;CLI000117;Silvio;Ferrara;03/09/1969;FERSIL69P03AREZE;silvio.ferrara@hotmail.it;3321432636;Corso Venezia, 87;20054;Arezzo;AR;Toscana;Italia;28/09/2024;1;1;0;23/01/2025
+118;CLI000118;Arianna;Neri;10/03/1978;NERARI78C50RAVEK;arianna.neri@hotmail.it;3365524718;Via Amendola, 137;20034;Ravenna;RA;Emilia-Romagna;Italia;29/03/2024;1;1;0;05/11/2025
+119;CLI000119;Noemi;Rossi;22/05/1982;ROSNOE82E62ANCOL;noemi.rossi@alice.it;3328269472;Viale delle Terme, 90;60123;Ancona;AN;Marche;Italia;08/03/2024;1;1;1;20/04/2025
+120;CLI000120;Beatrice;Sanna;22/03/1980;SANBEA80C62NOVAG;beatrice.sanna@icloud.com;3355373279;Corso Italia, 31;20065;Novara;NO;Piemonte;Italia;20/08/2025;1;1;1;07/11/2025
+121;CLI000121;Pietro;Testa;05/04/1965;TESPIE65D05MILAJ;pietro.testa@gmail.com;3342129932;Corso Martiri, 2;20186;Milano;MI;Lombardia;Italia;23/02/2024;1;1;1;03/05/2025
+122;CLI000122;Giorgia;Testa;16/07/1965;TESGIO65L56COMOE;giorgia.testa@yahoo.it;3338199483;Viale delle Terme, 55;22190;Como;CO;Lombardia;Italia;06/05/2026;1;1;0;10/05/2026
+123;CLI000123;Giulia;Grassi;14/09/1961;GRAGIU61P54PALEM;giulia.grassi@alice.it;3347690209;Corso Martiri, 17;90116;Palermo;PA;Sicilia;Italia;26/11/2024;1;1;0;07/07/2025
+124;CLI000124;Giorgia;Basile;15/07/1993;BASGIO93L55PRATD;giorgia.basile@outlook.it;3381283380;Via Garibaldi, 86;20085;Prato;PO;Toscana;Italia;16/11/2025;1;1;0;21/12/2025
+125;CLI000125;Patrizia;Conte;22/06/1980;CONPAT80H62BOLOB;patrizia.conte@tin.it;3383823258;Via delle Magnolie, 20;40124;Bologna;BO;Emilia-Romagna;Italia;05/03/2026;1;1;0;02/05/2026
+126;CLI000126;Luisa;Esposito;28/07/1967;ESPLUI67L68MODES;luisa.esposito@tin.it;3341959545;Via Carducci, 142;41141;Modena;MO;Emilia-Romagna;Italia;14/12/2025;1;1;1;12/01/2026
+127;CLI000127;Andrea;Fontana;22/10/1976;FONAND76R22MODEF;andrea.fontana@virgilio.it;3332695215;Via Dante, 97;41146;Modena;MO;Emilia-Romagna;Italia;24/12/2025;1;1;0;04/03/2026
+128;CLI000128;Lorella;Ferrara;17/08/1960;FERLOR60M57BARIE;lorella.ferrara@tin.it;3386443057;Via Roma, 101;70181;Bari;BA;Puglia;Italia;25/07/2025;1;1;1;21/10/2025
+129;CLI000129;Beatrice;Ferrari;22/02/1965;FERBEA65B62BARIN;beatrice.ferrari@outlook.it;3369690267;Corso Martiri, 25;70147;Bari;BA;Puglia;Italia;06/09/2024;1;1;0;30/08/2025
+130;CLI000130;Claudio;Caruso;04/06/1993;CARCLA93H04BOLZT;claudio.caruso@tin.it;3359516617;Via Togliatti, 108;20040;Bolzano;BZ;Trentino-Alto Adige;Italia;20/01/2024;1;1;1;19/06/2025
+131;CLI000131;Leonardo;Colombo;12/02/1965;COLLEO65B12PISAB;leonardo.colombo@outlook.it;3371131766;Via della Repubblica, 53;20033;Pisa;PI;Toscana;Italia;13/09/2024;1;1;1;04/11/2025
+132;CLI000132;Matteo;Conte;31/03/1979;CONMAT79C31BOLOP;matteo.conte@virgilio.it;3398243740;Corso Venezia, 129;40134;Bologna;BO;Emilia-Romagna;Italia;02/03/2025;1;1;0;11/04/2026
+133;CLI000133;Luca;Gatti;16/12/1981;GATLUC81T16BOLZD;luca.gatti@icloud.com;3395401908;Via Togliatti, 6;20042;Bolzano;BZ;Trentino-Alto Adige;Italia;17/07/2025;1;1;0;16/11/2025
+134;CLI000134;Giorgio;Russo;26/10/1983;RUSGIO83R26SASSD;giorgio.russo@tiscali.it;3352179449;Via Isonzo, 97;07128;Sassari;SS;Sardegna;Italia;29/07/2024;1;1;1;27/02/2026
+135;CLI000135;Anna;De Luca;05/07/1998;DE ANN98L45VENEK;anna.deluca@gmail.com;3358498021;Via della Repubblica, 60;30152;Venezia;VE;Veneto;Italia;16/01/2026;1;1;1;02/05/2026
+136;CLI000136;Beatrice;Giordano;06/05/1972;GIOBEA72E46COMOE;beatrice.giordano@libero.it;3333363629;Via della Repubblica, 82;22118;Como;CO;Lombardia;Italia;18/09/2025;1;1;1;13/03/2026
+137;CLI000137;Paolo;Leone;05/10/1970;LEOPAO70R05MILAI;paolo.leone@yahoo.it;3363759801;Via del Corso, 121;20115;Milano;MI;Lombardia;Italia;07/08/2025;1;1;1;12/11/2025
+138;CLI000138;Matteo;Mancini;22/07/1969;MANMAT69L22CATAZ;matteo.mancini@yahoo.it;3371279603;Via Aldo Moro, 99;20066;Catanzaro;CZ;Calabria;Italia;27/04/2026;1;1;1;21/05/2026
+139;CLI000139;Sara;Gentile;11/08/1980;GENSAR80M51PADON;sara.gentile@virgilio.it;3344120038;Via Carducci, 80;20043;Padova;PD;Veneto;Italia;16/01/2025;1;1;1;29/11/2025
+140;CLI000140;Antonio;Parisi;10/05/1988;PARANT88E10MONZK;antonio.parisi@tin.it;3353862632;Via Matteotti, 89;20918;Monza;MB;Lombardia;Italia;08/01/2025;1;1;0;05/09/2025
+141;CLI000141;Andrea;Sanna;20/06/1997;SANAND97H20TARAD;andrea.sanna@hotmail.it;3336899600;Via Verdi, 18;74061;Taranto;TA;Puglia;Italia;09/02/2024;1;1;1;03/11/2024
+142;CLI000142;Antonella;Rizzo;05/02/1980;RIZANT80B45LECCY;antonella.rizzo@hotmail.it;3397631531;Via Matteotti, 3;73188;Lecce;LE;Puglia;Italia;14/05/2024;1;1;0;29/04/2026
+143;CLI000143;Lorella;Santoro;09/12/1964;SANLOR64T49TARAP;lorella.santoro@gmail.com;3325715824;Via Aldo Moro, 141;74016;Taranto;TA;Puglia;Italia;05/04/2024;1;1;1;28/05/2024
+144;CLI000144;Donatella;Marini;02/12/1999;MARDON99T42AREZJ;donatella.marini@alice.it;3335403990;Viale delle Terme, 148;20037;Arezzo;AR;Toscana;Italia;16/01/2026;1;1;0;23/01/2026
+145;CLI000145;Stefano;Sorrentino;22/02/1997;SORSTE97B22ANDRV;stefano.sorrentino@tiscali.it;3338058885;Via Roma, 138;20015;Andria;BT;Puglia;Italia;28/04/2024;1;1;0;13/04/2025
+146;CLI000146;Paola;Palumbo;12/04/1964;PALPAO64D52TORID;paola.palumbo@yahoo.it;3394705436;Via Piave, 89;10169;Torino;TO;Piemonte;Italia;11/07/2024;1;1;0;15/12/2024
+147;CLI000147;Marisa;Longo;29/11/1967;LONMAR67S69ANDRP;marisa.longo@icloud.com;3359491550;Via dei Mille, 7;20091;Andria;BT;Puglia;Italia;25/10/2025;1;1;0;21/05/2026
+148;CLI000148;Donatella;Ferretti;25/12/1999;FERDON99T65TERNL;donatella.ferretti@tin.it;3364161765;Corso Italia, 1;20035;Terni;TR;Umbria;Italia;11/06/2025;1;1;1;17/12/2025
+149;CLI000149;Carmelo;Amato;26/08/1989;AMACAR89M26COMOY;carmelo.amato@hotmail.it;3343626568;Via Cavour, 14;22156;Como;CO;Lombardia;Italia;29/10/2025;1;1;1;17/12/2025
+150;CLI000150;Silvio;Mancini;05/12/1988;MANSIL88T05MESSP;silvio.mancini@hotmail.it;3375787117;Via Leopardi, 67;20060;Messina;ME;Sicilia;Italia;02/03/2025;1;1;1;12/10/2025
+151;CLI000151;Marta;Serra;19/07/1999;SERMAR99L59TRIEZ;marta.serra@icloud.com;3361811355;Via Leopardi, 70;20042;Trieste;TS;Friuli-Venezia Giulia;Italia;15/02/2025;1;1;0;23/04/2026
+152;CLI000152;Massimo;Caruso;22/08/1978;CARMAS78M22ANCOV;massimo.caruso@yahoo.it;3387159925;Via Amendola, 104;60139;Ancona;AN;Marche;Italia;23/03/2025;1;1;1;01/08/2025
+153;CLI000153;Antonio;Barbieri;21/02/1997;BARANT97B21COMOR;antonio.barbieri@yahoo.it;3328562174;Via Isonzo, 30;22158;Como;CO;Lombardia;Italia;03/04/2026;1;1;1;14/04/2026
+154;CLI000154;Monica;Marino;29/05/1978;MARMON78E69UDINU;monica.marino@outlook.it;3359796719;Corso Martiri, 125;20061;Udine;UD;Friuli-Venezia Giulia;Italia;01/05/2024;1;1;1;30/11/2025
+155;CLI000155;Giulio;Barbieri;27/08/1974;BARGIU74M27BRESH;giulio.barbieri@gmail.com;3393434205;Via del Corso, 64;25154;Brescia;BS;Lombardia;Italia;14/08/2025;1;1;1;07/02/2026
+156;CLI000156;Cristian;Rizzo;24/04/1963;RIZCRI63D24RIMIK;cristian.rizzo@hotmail.it;3321028422;Via del Corso, 85;20061;Rimini;RN;Emilia-Romagna;Italia;18/08/2024;1;1;1;19/10/2024
+157;CLI000157;Luca;Neri;17/12/1967;NERLUC67T17TRENS;luca.neri@virgilio.it;3322987488;Via Leopardi, 47;20073;Trento;TN;Trentino-Alto Adige;Italia;23/07/2025;1;1;1;24/10/2025
+158;CLI000158;Paola;Conte;26/08/1990;CONPAO90M66GENOC;paola.conte@alice.it;3359737342;Via Pascoli, 68;16173;Genova;GE;Liguria;Italia;23/06/2025;1;1;1;14/11/2025
+159;CLI000159;Emanuela;Gentile;22/12/1968;GENEMA68T62BOLOO;emanuela.gentile@outlook.it;3334677265;Via Gramsci, 60;40128;Bologna;BO;Emilia-Romagna;Italia;27/12/2024;1;1;0;28/10/2025
+160;CLI000160;Alessia;Fiore;17/12/1980;FIOALE80T57REGGI;alessia.fiore@tiscali.it;3337749690;Via Pascoli, 27;42114;Reggio Emilia;RE;Emilia-Romagna;Italia;04/10/2025;1;1;0;25/03/2026
+161;CLI000161;Monica;Ferretti;04/08/1980;FERMON80M44RIMIR;monica.ferretti1@hotmail.it;3344479882;Via Leopardi, 24;20098;Rimini;RN;Emilia-Romagna;Italia;21/03/2026;1;1;0;08/04/2026
+162;CLI000162;Giovanni;Grassi;22/07/1988;GRAGIO88L22MODEK;giovanni.grassi@gmail.com;3355484381;Via della Repubblica, 117;41189;Modena;MO;Emilia-Romagna;Italia;07/06/2024;1;1;0;06/04/2026
+163;CLI000163;Renato;Messina;05/02/1994;MESREN94B05GENOP;renato.messina@outlook.it;3333519869;Via Cavour, 126;16195;Genova;GE;Liguria;Italia;28/10/2024;1;1;1;17/04/2026
+164;CLI000164;Cristian;Parisi;19/01/1962;PARCRI62A19SIRAG;cristian.parisi@gmail.com;3391791520;Via Piave, 3;20098;Siracusa;SR;Sicilia;Italia;04/05/2026;1;1;1;04/05/2026
+165;CLI000165;Lorenzo;De Angelis;03/04/1989;DE LOR89D03PALEC;lorenzo.deangelis@libero.it;3338465826;Via della Libertà, 139;90118;Palermo;PA;Sicilia;Italia;14/10/2024;1;1;1;20/07/2025
+166;CLI000166;Beatrice;Martini;07/04/1990;MARBEA90D47NOVAO;beatrice.martini@hotmail.it;3342016214;Via Garibaldi, 144;20063;Novara;NO;Piemonte;Italia;18/10/2024;1;1;0;08/12/2025
+167;CLI000167;Arianna;Moretti;15/02/1969;MORARI69B55AREZR;arianna.moretti@icloud.com;3334742893;Viale Europa, 108;20011;Arezzo;AR;Toscana;Italia;28/06/2025;1;1;1;15/08/2025
+168;CLI000168;Simona;Marotta;24/03/1965;MARSIM65C64TERNE;simona.marotta@gmail.com;3322514022;Via Piave, 94;20094;Terni;TR;Umbria;Italia;17/03/2024;1;1;1;28/11/2025
+169;CLI000169;Ivana;Gatti;14/01/1976;GATIVA76A54TRENT;ivana.gatti@tiscali.it;3351704236;Via Togliatti, 103;20095;Trento;TN;Trentino-Alto Adige;Italia;31/10/2024;1;1;0;09/05/2025
+170;CLI000170;Luca;Parisi;26/06/1962;PARLUC62H26RAVEC;luca.parisi@hotmail.it;3369366323;Viale Europa, 27;20079;Ravenna;RA;Emilia-Romagna;Italia;12/11/2025;1;1;0;10/01/2026
+171;CLI000171;Leonardo;Testa;12/02/1987;TESLEO87B12PERUL;leonardo.testa@tiscali.it;3339583705;Corso Venezia, 93;06134;Perugia;PG;Umbria;Italia;31/05/2026;1;1;0;01/06/2026
+172;CLI000172;Rosa;Moretti;24/12/1991;MORROS91T64SALEZ;rosa.moretti@gmail.com;3397963805;Via Carducci, 25;84181;Salerno;SA;Campania;Italia;11/02/2024;1;1;1;12/05/2026
+173;CLI000173;Enzo;Ricci;30/10/1969;RICENZ69R30FIREO;enzo.ricci@hotmail.it;3338310926;Via Vittorio Emanuele, 10;50193;Firenze;FI;Toscana;Italia;07/04/2024;1;1;0;12/10/2024
+174;CLI000174;Giulia;Bruno;29/11/1962;BRUGIU62S69LIVOA;giulia.bruno@tin.it;3347762756;Via Vittorio Emanuele, 67;20083;Livorno;LI;Toscana;Italia;24/08/2024;1;1;0;14/09/2024
+175;CLI000175;Arianna;Moretti;13/01/1963;MORARI63A53SASSN;arianna.moretti@tiscali.it;3374377952;Via Togliatti, 117;07170;Sassari;SS;Sardegna;Italia;01/07/2024;1;1;0;03/09/2024
+176;CLI000176;Luigi;Gallo;29/10/1987;GALLUI87R29PERUH;luigi.gallo@libero.it;3389805511;Via Nazionale, 46;06183;Perugia;PG;Umbria;Italia;12/10/2025;1;1;0;12/01/2026
+177;CLI000177;Anna;Ricci;25/07/1970;RICANN70L65SASSR;anna.ricci@yahoo.it;3341422083;Via Mazzini, 41;07198;Sassari;SS;Sardegna;Italia;07/10/2024;1;1;0;12/01/2026
+178;CLI000178;Noemi;Monti;13/06/1966;MONNOE66H53ROMAU;noemi.monti@outlook.it;3353500980;Via Pascoli, 116;00132;Roma;RM;Lazio;Italia;24/07/2024;1;1;1;18/10/2025
+179;CLI000179;Giulio;Grassi;29/02/1968;GRAGIU68B29TERNB;giulio.grassi@hotmail.it;3369467863;Via della Repubblica, 41;20094;Terni;TR;Umbria;Italia;26/01/2025;1;1;1;22/04/2026
+180;CLI000180;Vincenzo;Ferrari;09/10/1963;FERVIN63R09CATAO;vincenzo.ferrari@tin.it;3354591882;Via Garibaldi, 120;20051;Catanzaro;CZ;Calabria;Italia;15/02/2026;1;1;0;03/03/2026
+181;CLI000181;Ivana;Gallo;28/02/1971;GALIVA71B68SALER;ivana.gallo@tiscali.it;3341963906;Via della Libertà, 50;84170;Salerno;SA;Campania;Italia;01/10/2024;1;1;0;14/04/2026
+182;CLI000182;Edoardo;D'Amico;11/08/1982;DAMEDO82M11RIMIW;edoardo.damico@outlook.it;3339499968;Viale Europa, 86;20011;Rimini;RN;Emilia-Romagna;Italia;12/04/2024;1;1;1;07/10/2025
+183;CLI000183;Paola;Villa;21/07/1982;VILPAO82L61BOLZL;paola.villa@outlook.it;3356280090;Via Isonzo, 76;20012;Bolzano;BZ;Trentino-Alto Adige;Italia;17/10/2024;1;1;0;24/12/2024
+184;CLI000184;Giovanni;Amato;13/11/1962;AMAGIO62S13NAPOR;giovanni.amato@tin.it;3342048073;Via Matteotti, 112;80113;Napoli;NA;Campania;Italia;12/06/2024;1;1;1;21/06/2024
+185;CLI000185;Eleonora;Silvestri;29/10/1978;SILELE78R69MILAM;eleonora.silvestri@hotmail.it;3394980341;Via Pascoli, 21;20112;Milano;MI;Lombardia;Italia;27/03/2026;1;1;0;07/05/2026
+186;CLI000186;Luca;Ferrara;27/01/1992;FERLUC92A27PISAR;luca.ferrara@hotmail.it;3394168443;Via Carducci, 68;20099;Pisa;PI;Toscana;Italia;20/07/2025;1;1;1;22/02/2026
+187;CLI000187;Antonio;Basile;24/07/1987;BASANT87L24REGGT;antonio.basile@yahoo.it;3356512098;Via Amendola, 135;42182;Reggio Emilia;RE;Emilia-Romagna;Italia;04/01/2024;1;1;0;22/01/2026
+188;CLI000188;Federica;Giordano;24/12/1961;GIOFED61T64ANDRB;federica.giordano@gmail.com;3354922302;Via dei Mille, 104;20078;Andria;BT;Puglia;Italia;03/11/2024;1;1;0;15/12/2024
+189;CLI000189;Alessia;Santoro;23/05/1999;SANALE99E63VENEG;alessia.santoro@virgilio.it;3367334392;Via Matteotti, 76;30155;Venezia;VE;Veneto;Italia;08/10/2025;1;1;1;13/05/2026
+190;CLI000190;Massimo;Villa;08/12/1999;VILMAS99T08REGGO;massimo.villa@yahoo.it;3367313260;Viale Europa, 86;89112;Reggio Calabria;RC;Calabria;Italia;26/10/2025;1;1;1;08/12/2025
+191;CLI000191;Marta;Ferraro;21/11/1961;FERMAR61S61LATIT;marta.ferraro@tin.it;3376350324;Via del Corso, 75;20059;Latina;LT;Lazio;Italia;23/01/2026;1;1;1;10/04/2026
+192;CLI000192;Alessia;Amato;07/06/1965;AMAALE65H47ROMAH;alessia.amato@tiscali.it;3347668802;Via del Corso, 125;00125;Roma;RM;Lazio;Italia;19/03/2025;1;1;1;27/09/2025
+193;CLI000193;Maria;Ferrara;08/08/2000;FERMAR00M48SIRAH;maria.ferrara@alice.it;3347834625;Via Dante, 46;20071;Siracusa;SR;Sicilia;Italia;07/09/2025;1;1;0;25/05/2026
+194;CLI000194;Giorgia;Fabbri;22/12/1978;FABGIO78T62PESCA;giorgia.fabbri@gmail.com;3374392294;Via Piave, 113;65116;Pescara;PE;Abruzzo;Italia;08/03/2026;1;1;0;01/05/2026
+195;CLI000195;Serena;Orlando;11/02/1964;ORLSER64B51TRENV;serena.orlando@libero.it;3363616802;Via della Libertà, 97;20019;Trento;TN;Trentino-Alto Adige;Italia;12/01/2026;1;1;0;22/03/2026
+196;CLI000196;Simone;De Luca;21/05/1968;DE SIM68E21ANDRF;simone.deluca@tin.it;3369328979;Corso Martiri, 40;20045;Andria;BT;Puglia;Italia;14/07/2025;1;1;0;08/02/2026
+197;CLI000197;Carmelo;Silvestri;19/08/1970;SILCAR70M19REGGV;carmelo.silvestri@gmail.com;3358851981;Via Isonzo, 113;89184;Reggio Calabria;RC;Calabria;Italia;22/02/2024;1;1;0;22/09/2024
+198;CLI000198;Donatella;Gallo;14/11/1979;GALDON79S54LECCH;donatella.gallo@outlook.it;3379308178;Viale Europa, 131;73190;Lecce;LE;Puglia;Italia;23/10/2024;1;1;0;20/05/2025
+199;CLI000199;Alessandro;Costa;21/07/1970;COSALE70L21MILAT;alessandro.costa@tin.it;3326269306;Via Isonzo, 32;20153;Milano;MI;Lombardia;Italia;14/03/2024;1;1;0;03/12/2025
+200;CLI000200;Teresa;Barbieri;03/02/1966;BARTER66B43TRENV;teresa.barbieri@icloud.com;3389223841;Corso Italia, 99;20046;Trento;TN;Trentino-Alto Adige;Italia;22/10/2025;1;1;0;18/05/2026
+201;CLI000201;Pietro;Palumbo;01/11/1960;PALPIE60S01REGGQ;pietro.palumbo@yahoo.it;3335707915;Viale Europa, 76;89111;Reggio Calabria;RC;Calabria;Italia;29/05/2024;1;1;0;27/08/2025
+202;CLI000202;Riccardo;Marini;27/08/1994;MARRIC94M27NAPOZ;riccardo.marini@icloud.com;3344321515;Via Piave, 75;80198;Napoli;NA;Campania;Italia;14/01/2026;1;1;0;08/04/2026
+203;CLI000203;Luisa;Rizzo;07/04/1972;RIZLUI72D47BARIT;luisa.rizzo@outlook.it;3373885970;Via Isonzo, 44;70119;Bari;BA;Puglia;Italia;05/12/2025;1;1;1;07/05/2026
+204;CLI000204;Silvia;Costa;10/03/1985;COSSIL85C50TRENT;silvia.costa@virgilio.it;3327314704;Via Nazionale, 146;20036;Trento;TN;Trentino-Alto Adige;Italia;24/10/2024;1;1;0;28/09/2025
+205;CLI000205;Federico;Sorrentino;20/11/1975;SORFED75S20LECCB;federico.sorrentino@gmail.com;3369593022;Via Vittorio Emanuele, 11;73121;Lecce;LE;Puglia;Italia;17/11/2024;1;1;1;12/05/2025
+206;CLI000206;Leonardo;Parisi;24/01/1997;PARLEO97A24TRENA;leonardo.parisi@virgilio.it;3377925576;Via Carducci, 113;20066;Trento;TN;Trentino-Alto Adige;Italia;23/06/2025;1;1;1;28/12/2025
+207;CLI000207;Federico;Ferri;14/01/1965;FERFED65A14GENOB;federico.ferri@gmail.com;3358567843;Via Dante, 79;16187;Genova;GE;Liguria;Italia;28/12/2025;1;1;0;22/05/2026
+208;CLI000208;Franco;Leone;14/02/1970;LEOFRA70B14NAPOQ;franco.leone@virgilio.it;3357034895;Viale delle Terme, 55;80182;Napoli;NA;Campania;Italia;14/11/2024;1;1;1;08/01/2026
+209;CLI000209;Patrizia;Longo;14/11/1983;LONPAT83S54RAVEH;patrizia.longo@outlook.it;3352615065;Via Vittorio Emanuele, 120;20061;Ravenna;RA;Emilia-Romagna;Italia;18/03/2025;1;1;1;12/09/2025
+210;CLI000210;Federico;Palumbo;18/07/1992;PALFED92L18MONZW;federico.palumbo@outlook.it;3361506388;Corso Umberto, 106;20939;Monza;MB;Lombardia;Italia;06/02/2024;1;1;0;15/03/2024
+211;CLI000211;Filippo;D'Amico;04/04/1983;DAMFIL83D04TERNN;filippo.damico@yahoo.it;3375312546;Via Leopardi, 6;20099;Terni;TR;Umbria;Italia;09/02/2025;1;1;1;28/05/2026
+212;CLI000212;Francesca;Moretti;28/07/1983;MORFRA83L68PARMB;francesca.moretti@virgilio.it;3391921457;Corso Umberto, 100;43183;Parma;PR;Emilia-Romagna;Italia;08/02/2025;1;1;1;28/05/2025
+213;CLI000213;Matteo;Palumbo;16/03/1993;PALMAT93C16TARAD;matteo.palumbo@alice.it;3357167021;Via delle Magnolie, 66;74023;Taranto;TA;Puglia;Italia;29/08/2025;1;1;1;12/05/2026
+214;CLI000214;Filippo;Basile;02/02/1988;BASFIL88B02FIREC;filippo.basile@tiscali.it;3346237391;Via Nazionale, 131;50124;Firenze;FI;Toscana;Italia;21/07/2024;1;1;1;22/03/2025
+215;CLI000215;Massimo;Riva;21/09/1988;RIVMAS88P21CESED;massimo.riva@icloud.com;3345618289;Via Piave, 55;20019;Cesena;FC;Emilia-Romagna;Italia;24/09/2024;1;1;0;31/08/2025
+216;CLI000216;Fabio;Sanna;20/05/1978;SANFAB78E20TORIB;fabio.sanna@yahoo.it;3357800194;Corso Venezia, 74;10156;Torino;TO;Piemonte;Italia;06/03/2026;1;1;0;20/05/2026
+217;CLI000217;Cristian;Cattaneo;24/11/1983;CATCRI83S24FOGGL;cristian.cattaneo@yahoo.it;3332779271;Viale delle Terme, 47;20045;Foggia;FG;Puglia;Italia;20/12/2025;1;1;0;29/01/2026
+218;CLI000218;Donatella;Rizzo;10/09/1966;RIZDON66P50BERGV;donatella.rizzo@libero.it;3388250842;Viale Europa, 107;24140;Bergamo;BG;Lombardia;Italia;01/11/2025;1;1;1;28/03/2026
+219;CLI000219;Noemi;Marino;20/01/1983;MARNOE83A60AREZX;noemi.marino@alice.it;3364143708;Via Leopardi, 52;20072;Arezzo;AR;Toscana;Italia;14/09/2025;1;1;1;24/11/2025
+220;CLI000220;Alberto;Grassi;08/05/1995;GRAALB95E08MESSI;alberto.grassi@outlook.it;3334614289;Via Nazionale, 144;20073;Messina;ME;Sicilia;Italia;25/04/2026;1;1;0;02/05/2026
+221;CLI000221;Federica;Barbieri;20/02/1995;BARFED95B60AREZF;federica.barbieri@gmail.com;3373293316;Via della Repubblica, 70;20039;Arezzo;AR;Toscana;Italia;18/10/2024;1;1;1;16/04/2025
+222;CLI000222;Beatrice;Vitale;12/05/1992;VITBEA92E52UDINM;beatrice.vitale@yahoo.it;3382562301;Via della Libertà, 8;20037;Udine;UD;Friuli-Venezia Giulia;Italia;11/07/2024;1;1;1;11/10/2024
+223;CLI000223;Fabio;Sanna;30/03/1983;SANFAB83C30AREZJ;fabio.sanna@hotmail.it;3352778426;Corso Venezia, 27;20057;Arezzo;AR;Toscana;Italia;08/08/2024;1;1;1;14/11/2024
+224;CLI000224;Noemi;Amato;18/12/1999;AMANOE99T58PESCH;noemi.amato@hotmail.it;3389716201;Via Isonzo, 81;65170;Pescara;PE;Abruzzo;Italia;18/12/2024;1;1;0;31/12/2025
+225;CLI000225;Marta;Gentile;05/09/1972;GENMAR72P45PISAI;marta.gentile@libero.it;3388814879;Via Cavour, 110;20047;Pisa;PI;Toscana;Italia;05/02/2024;1;1;1;05/06/2025
+226;CLI000226;Filippo;Martini;15/05/1973;MARFIL73E15VEROB;filippo.martini@icloud.com;3394235452;Via Isonzo, 121;37171;Verona;VR;Veneto;Italia;02/05/2026;1;1;1;02/05/2026
+227;CLI000227;Elena;Testa;20/09/1987;TESELE87P60BARIC;elena.testa@hotmail.it;3363376577;Via Dante, 123;70157;Bari;BA;Puglia;Italia;20/06/2024;1;1;0;10/07/2024
+228;CLI000228;Anna;Giordano;12/11/1961;GIOANN61S52PERUQ;anna.giordano@outlook.it;3357878452;Piazza Municipio, 113;06167;Perugia;PG;Umbria;Italia;23/01/2026;1;1;1;19/03/2026
+229;CLI000229;Anna;Coppola;02/06/1991;COPANN91H42MILAD;anna.coppola@tin.it;3389895615;Corso Martiri, 113;20198;Milano;MI;Lombardia;Italia;25/09/2025;1;1;1;06/01/2026
+230;CLI000230;Riccardo;Grassi;27/03/1961;GRARIC61C27PADOI;riccardo.grassi@virgilio.it;3393970211;Via delle Magnolie, 110;20010;Padova;PD;Veneto;Italia;21/08/2024;1;1;0;03/03/2026
+231;CLI000231;Cristina;Rizzo;22/04/2000;RIZCRI00D62TRENH;cristina.rizzo@outlook.it;3385361719;Via Isonzo, 44;20035;Trento;TN;Trentino-Alto Adige;Italia;30/03/2026;1;1;1;04/05/2026
+232;CLI000232;Giacomo;Bianchi;14/09/1967;BIAGIA67P14UDINR;giacomo.bianchi@virgilio.it;3366088525;Via Carducci, 69;20076;Udine;UD;Friuli-Venezia Giulia;Italia;22/02/2024;1;1;0;07/08/2025
+233;CLI000233;Beatrice;De Luca;21/12/1961;DE BEA61T61PADOY;beatrice.deluca@icloud.com;3393364745;Via Cavour, 124;20094;Padova;PD;Veneto;Italia;08/10/2024;1;1;1;09/10/2024
+234;CLI000234;Luisa;Martini;17/08/1967;MARLUI67M57TERNW;luisa.martini@tin.it;3396362714;Via Cavour, 54;20063;Terni;TR;Umbria;Italia;02/03/2024;1;1;1;14/01/2026
+235;CLI000235;Salvatore;Vitale;12/06/1996;VITSAL96H12BERGH;salvatore.vitale@yahoo.it;3357085396;Piazza Municipio, 73;24199;Bergamo;BG;Lombardia;Italia;14/08/2024;1;1;0;15/04/2026
+236;CLI000236;Giorgio;De Angelis;23/03/1982;DE GIO82C23MONZV;giorgio.deangelis@yahoo.it;3326458403;Viale Europa, 108;20929;Monza;MB;Lombardia;Italia;18/06/2024;1;1;0;17/08/2024
+237;CLI000237;Giulio;D'Amico;28/11/1971;DAMGIU71S28REGGT;giulio.damico@libero.it;3359118703;Via della Libertà, 115;89133;Reggio Calabria;RC;Calabria;Italia;12/11/2025;1;1;0;26/04/2026
+238;CLI000238;Francesca;Fontana;27/01/1984;FONFRA84A67FOGGX;francesca.fontana@alice.it;3323874778;Via della Repubblica, 71;20071;Foggia;FG;Puglia;Italia;25/09/2024;1;1;0;08/05/2025
+239;CLI000239;Silvia;Ferraro;23/02/1996;FERSIL96B63AREZQ;silvia.ferraro@alice.it;3361215868;Via Roma, 25;20049;Arezzo;AR;Toscana;Italia;16/11/2025;1;1;1;01/03/2026
+240;CLI000240;Fabio;Longo;08/06/1992;LONFAB92H08MODEG;fabio.longo@icloud.com;3353836736;Via Leopardi, 27;41132;Modena;MO;Emilia-Romagna;Italia;20/10/2024;1;1;1;10/12/2025
+241;CLI000241;Lorella;Conti;16/08/1968;CONLOR68M56PALEO;lorella.conti@outlook.it;3341234455;Via della Libertà, 27;90155;Palermo;PA;Sicilia;Italia;02/11/2024;1;1;0;21/12/2025
+242;CLI000242;Antonio;Ricci;15/08/1963;RICANT63M15MONZY;antonio.ricci@libero.it;3331983823;Via Gramsci, 19;20925;Monza;MB;Lombardia;Italia;18/07/2024;1;1;1;22/09/2025
+243;CLI000243;Laura;Sorrentino;15/06/1969;SORLAU69H55REGGR;laura.sorrentino@icloud.com;3396742390;Via Nazionale, 122;89149;Reggio Calabria;RC;Calabria;Italia;05/05/2026;1;1;0;06/05/2026
+244;CLI000244;Giovanni;Conti;20/05/1976;CONGIO76E20LECCQ;giovanni.conti@outlook.it;3364779313;Via Isonzo, 121;73157;Lecce;LE;Puglia;Italia;13/10/2024;1;1;0;28/04/2025
+245;CLI000245;Cristina;Fontana;22/03/1998;FONCRI98C62NAPOP;cristina.fontana@gmail.com;3354120589;Piazza Municipio, 66;80143;Napoli;NA;Campania;Italia;15/02/2025;1;1;0;19/04/2026
+246;CLI000246;Maurizio;Martini;30/05/1976;MARMAU76E30SIRAC;maurizio.martini@libero.it;3358816777;Piazza Municipio, 123;20012;Siracusa;SR;Sicilia;Italia;05/08/2024;1;1;0;10/09/2025
+247;CLI000247;Pietro;Lombardi;07/02/1990;LOMPIE90B07NOVAW;pietro.lombardi@libero.it;3343296706;Via Cavour, 101;20048;Novara;NO;Piemonte;Italia;04/02/2026;1;1;0;13/04/2026
+248;CLI000248;Marco;Sorrentino;09/11/1971;SORMAR71S09PISAX;marco.sorrentino@libero.it;3393399023;Piazza Municipio, 99;20012;Pisa;PI;Toscana;Italia;12/01/2026;1;1;1;08/04/2026
+249;CLI000249;Rosa;Silvestri;25/06/1964;SILROS64H65FOGGF;rosa.silvestri@alice.it;3348236257;Via della Repubblica, 6;20044;Foggia;FG;Puglia;Italia;04/02/2025;1;1;0;13/11/2025
+250;CLI000250;Alessia;Monti;27/08/1979;MONALE79M67BARIA;alessia.monti@gmail.com;3323491520;Viale delle Terme, 58;70133;Bari;BA;Puglia;Italia;21/01/2025;1;1;0;04/03/2025
